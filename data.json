@@ -1,1 +1,86 @@
-[]
+[
+  {
+    "nama": "Nasi Ayam Blackpaper",
+    "harga": 13000,
+    "kelompok": "Kelompok 1/VII.E",
+    "wa": "085737102942",
+    "foto": "7E.K1.1.jpg"
+  },
+  {
+    "nama": "Lumpia Ubi Krispy Krezz",
+    "harga": 8000,
+    "kelompok": "Kelompok 1/VII.E",
+    "wa": "085737102942",
+    "foto": "7E.K1.2.jpg"
+  },
+  {
+    "nama": "Orange Squash Syahdu",
+    "harga": 8000,
+    "kelompok": "Kelompok 1/VII.E",
+    "wa": "085737102942",
+    "foto": "7E.K1.3.jpg"
+  },
+  {
+    "nama": "Choco Berry",
+    "harga": 12000,
+    "kelompok": "Kelompok 2/VII.E",
+    "wa": "087838174492",
+    "foto": "7E.K2.1.jpeg"
+  },
+  {
+    "nama": "Butterfly Pea",
+    "harga": 8000,
+    "kelompok": "Kelompok 2/VII.E",
+    "wa": "087838174492",
+    "foto": "7E.K2.2.jpeg"
+  },
+  {
+    "nama": "Oreo Milky Crush",
+    "harga": 8000,
+    "kelompok": "Kelompok 3/VII.E",
+    "wa": "0881325286572",
+    "foto": "7E.K3.2.jpg"
+  },
+  {
+    "nama": "Korea Cheese Noodles ",
+    "harga": 12000,
+    "kelompok": "Kelompok 3/VII.E",
+    "wa": "0881325286572",
+    "foto": "7E.K3.1.jpg"
+  },
+  {
+    "nama": "Caramel Puding",
+    "harga": 6000,
+    "kelompok": "Kelompok 4/VII.E",
+    "wa": "087864372986",
+    "foto": "7E.K4.1.jpg"
+  },
+  {
+    "nama": "Melon Squash",
+    "harga": 10000,
+    "kelompok": "Kelompok 4/VII.E",
+    "wa": "087864372986",
+    "foto": "7E.K4.2.jpg"
+  },
+  {
+    "nama": "Mango Squash",
+    "harga": 10000,
+    "kelompok": "Kelompok 4/VII.E",
+    "wa": "087864372986",
+    "foto": "7E.K4.3.jpg"
+  },
+  {
+    "nama": "Rabokki Rice Paper ",
+    "harga": 10000,
+    "kelompok": "Kelompok 5/VII.E",
+    "wa": "08158854378",
+    "foto": "7E.K5.1.jpg"
+  },
+  {
+    "nama": "Es Cendol Titut",
+    "harga": 5000,
+    "kelompok": "Kelompok 5/VII.E",
+    "wa": "08158854378",
+    "foto": "7E.K5.2.jpg"
+  }
+]
