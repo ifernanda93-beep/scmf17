@@ -91,18 +91,18 @@
     "foto": "7F.K1.1.png"
   },
   {
-    "nama": "Es Milo Teletubies",
-    "harga": 10000,
+    "nama": "Puding Vla",
+    "harga": 5000,
     "kelompok": "Kelompok 2/VII.F",
     "wa": "081772308502",
-    "foto": "7F.K2.1.jpeg"
+    "foto": "7F.K2.1.1.png"
   },
   {
-    "nama": "Amba Puding",
-    "harga": 5000,
+    "nama": "Es Timun Selasih",
+    "harga": 8000,
     "kelompok": "Kelompok  2/VII.F",
     "wa": "081772308502",
-    "foto": "7F.K2.2.jpeg"
+    "foto": "7F.K2.2.2.png"
   },
   {
     "nama": "Bakso",
@@ -138,5 +138,82 @@
     "kelompok": "Kelompok 5/VII.F",
     "wa": "082258139406",
     "foto": "7F.K5.1.jpg"
+  },
+  {
+    "nama": "Kentang Bahagia",
+    "harga": 10000,
+    "kelompok": "Kelompok 1/VII.G",
+    "wa": "0881037281811",
+    "foto": "7G.K1.1.2.png"
+  },
+  {
+    "nama": "Milku Gembira",
+    "harga": 10000,
+    "kelompok": "Kelompok 1/VII.G",
+    "wa": "0881037281811",
+    "foto": "7G.K1.1.1.png"
+  },
+  {
+    "nama": "Dimsum Mentai",
+    "harga": 10000,
+    "kelompok": "Kelompok 2/VII.G",
+    "wa": "081547604021",
+    "foto": "7G.K2.1.png"
+  },
+  {
+    "nama": "Lemon Tea",
+    "harga": 6000,
+    "kelompok": "Kelompok 2/VII.G",
+    "wa": "081547604021",
+    "foto": "7G.K2.2.png"
+  },
+  {
+    "nama": "Lumpia Sosis Keju",
+    "harga": 5000,
+    "kelompok": "Kelompok 3/VII.G",
+    "wa": "087898851393",
+    "foto": "7G.K3.2.png"
+  },
+  {
+    "nama": "Milo Shake",
+    "harga": 8000,
+    "kelompok": "Kelompok 3/VII.G",
+    "wa": "087898851393",
+    "foto": "7G.K3.1.png"
+  },
+  {
+    "nama": "Butterscotch Latte",
+    "harga": 10000,
+    "kelompok": "Kelompok 4/VII.G",
+    "wa": "088211310886",
+    "foto": "7G.K4.2.png"
+  },
+  {
+    "nama": "Roti Coklat Lumer",
+    "harga": 4000,
+    "kelompok": "Kelompok 4/VII.G",
+    "wa": "088211310886",
+    "foto": "7G.K4.1.png"
+  },
+  {
+    "nama": "Kentang Goreng",
+    "harga": 5000,
+    "kelompok": "Kelompok 5/VII.G",
+    "wa": "081937714490",
+    "foto": "7G.K5.1.jpg"
+  },
+  {
+    "nama": "Mie Nyemek",
+    "harga": 6000,
+    "kelompok": "Kelompok 5/VII.G",
+    "wa": "081937714490",
+    "foto": "7G.K5.2.jpg"
+  },
+  {
+    "nama": "Ice Sprite",
+    "harga": 5000,
+    "kelompok": "Kelompok 5/VII.G",
+    "wa": "081937714490",
+    "foto": "7G.K5.3.jpg"
   }
 ]
