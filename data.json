@@ -215,5 +215,89 @@
     "kelompok": "Kelompok 5/VII.G",
     "wa": "081937714490",
     "foto": "7G.K5.3.jpg"
+  },
+  {
+    "nama": "Es Matcha Susu",
+    "harga": 8000,
+    "kelompok": "Kelompok 1/VII.G",
+    "wa": "087735641783",
+    "foto": "7H.K1.2.jpg"
+  },
+  {
+    "nama": "Es Coklat Susu",
+    "harga": 8000,
+    "kelompok": "Kelompok 1/VII.H",
+    "wa": "087735641783",
+    "foto": "7H.K1.3.jpg"
+  },
+  {
+    "nama": "Mix Platter",
+    "harga": 12000,
+    "kelompok": "Kelompok 1/VII.H",
+    "wa": "087735641783",
+    "foto": "7H.K1.1.jpg"
+  },
+  {
+    "nama": "Es Cappucino Cincau",
+    "harga": 8000,
+    "kelompok": "Kelompok 2/VII.H",
+    "wa": "081999428400",
+    "foto": "7H.K2.2.jpg"
+  },
+  {
+    "nama": "Rujak Prasmanan",
+    "harga": 10000,
+    "kelompok": "Kelompok 2/VII.H",
+    "wa": "081999428400",
+    "foto": "7H.K2.1.jpg"
+  },
+  {
+    "nama": "Spaghetti",
+    "harga": 7000,
+    "kelompok": "Kelompok 3/VII.H",
+    "wa": "087779244796",
+    "foto": "7H.K3.1.jpeg"
+  },
+  {
+    "nama": "Pangsit",
+    "harga": 5000,
+    "kelompok": "Kelompok 3/VII.H",
+    "wa": "087779244796",
+    "foto": "7H.K3.2.jpeg"
+  },
+  {
+    "nama": "Es Tarik",
+    "harga": 6000,
+    "kelompok": "Kelompok 3/VII.H",
+    "wa": "087779244796",
+    "foto": "7H.K3.3.jpeg"
+  },
+  {
+    "nama": "Roti Sosis Keju",
+    "harga": 12000,
+    "kelompok": "Kelompok 4/VII.H",
+    "wa": "081238534982",
+    "foto": "7H.K4.1.jpg"
+  },
+  {
+    "nama": "Chocolatos Drink ",
+    "harga": 7000,
+    "kelompok": "Kelompok 4/VII.H",
+    "wa": "081238534982",
+    "foto": "7H.K4.2.jpg"
+  },
+  {
+    "nama": "Melon Sago Melt",
+    "harga": 9000,
+    "kelompok": "Kelompok 5/VII.H",
+    "wa": " 085738539137",
+    "foto": "7H.K5.1.jpg"
+  },
+  {
+    "nama": "Choco Melt Brownies ",
+    "harga": 9000,
+    "kelompok": "Kelompok 5/VII.H",
+    "wa": "085738539137",
+    "foto": "7H.K5.2.jpg"
   }
 ]
