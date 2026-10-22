@@ -82,5 +82,61 @@
     "kelompok": "Kelompok 5/VII.E",
     "wa": "08158854378",
     "foto": "7E.K5.2.jpg"
+  },
+  {
+    "nama": "Es Mango Sago",
+    "harga": 8000,
+    "kelompok": "Kelompok 1/VII.F",
+    "wa": "087778178150",
+    "foto": "7F.K1.1.png"
+  },
+  {
+    "nama": "Es Milo Teletubies",
+    "harga": 10000,
+    "kelompok": "Kelompok 2/VII.F",
+    "wa": "081772308502",
+    "foto": "7F.K2.1.jpeg"
+  },
+  {
+    "nama": "Amba Puding",
+    "harga": 5000,
+    "kelompok": "Kelompok  2/VII.F",
+    "wa": "081772308502",
+    "foto": "7F.K2.2.jpeg"
+  },
+  {
+    "nama": "Bakso",
+    "harga": 12000,
+    "kelompok": "Kelompok 3/VII.F",
+    "wa": "085847408051",
+    "foto": "7F.K3.1.jpg"
+  },
+  {
+    "nama": "Es Teh",
+    "harga": 5000,
+    "kelompok": "Kelompok 3/VII.F",
+    "wa": "085847408051",
+    "foto": "7F.K3.2.jpg"
+  },
+  {
+    "nama": "Chicken Pop",
+    "harga": 9000,
+    "kelompok": "Kelompok 4/VII.F",
+    "wa": "088297063532",
+    "foto": "7F.K4.2.jpg"
+  },
+  {
+    "nama": "Es Teh",
+    "harga": 3000,
+    "kelompok": "Kelompok 4/VII.F",
+    "wa": "088297063532",
+    "foto": "7F.K4.1.jpg"
+  },
+  {
+    "nama": "Gulali Soda",
+    "harga": 6000,
+    "kelompok": "Kelompok 5/VII.F",
+    "wa": "082258139406",
+    "foto": "7F.K5.1.jpg"
   }
 ]
